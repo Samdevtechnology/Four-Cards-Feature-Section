@@ -147,8 +147,8 @@ body {
     justify-content: space-around;
     align-items: center;
   }
-  #cards > li,
-  #center-card-row {
+
+  #cards > li {
     width: 30%;
     height: max-content;
   }
